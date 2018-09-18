@@ -1,6 +1,6 @@
 {
   "name": "typescript-nyc-mocha-gulp",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "discription": "Utils for node-dmr",
   "scripts": {
     "preversion": "tsc && npm run lint && npm run cover",
