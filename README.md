@@ -4,6 +4,13 @@
 [![npm package](https://img.shields.io/npm/v/typescript-nyc-mocha-gulp.svg)](https://www.npmjs.org/package/typescript-nyc-mocha-gulp)
 [![npm downloads](http://img.shields.io/npm/dm/typescript-nyc-mocha-gulp.svg)](https://www.npmjs.org/package/typescript-nyc-mocha-gulp)
 
+A Project With:
+
+- TypeScript ^3.0
+- Travis Nyc(coveralls)
+- Mocha(based TS) Gulp-typescript
+- TsLint TsDoc
+
 # Develop
 
 Project
