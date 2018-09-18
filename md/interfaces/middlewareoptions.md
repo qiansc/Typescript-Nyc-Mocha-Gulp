@@ -29,7 +29,7 @@
 
 **● next**: *[MiddlewareAction](middlewareaction.md)*
 
-*Defined in middleware.ts:33*
+*Defined in [middleware.ts:33](https://github.com/qiansc/Typescript-Nyc-Mocha-Gulp/blob/f011cd6/src/middleware.ts#L33)*
 
 ___
 <a id="nexteach"></a>
@@ -38,7 +38,7 @@ ___
 
 **● nextEach**: *[MiddlewareOptions](middlewareoptions.md)*
 
-*Defined in middleware.ts:32*
+*Defined in [middleware.ts:32](https://github.com/qiansc/Typescript-Nyc-Mocha-Gulp/blob/f011cd6/src/middleware.ts#L32)*
 
 ___
 <a id="nextlist"></a>
@@ -47,7 +47,7 @@ ___
 
 **● nextList**: *[MiddlewareOptions](middlewareoptions.md)[]*
 
-*Defined in middleware.ts:31*
+*Defined in [middleware.ts:31](https://github.com/qiansc/Typescript-Nyc-Mocha-Gulp/blob/f011cd6/src/middleware.ts#L31)*
 
 ___
 <a id="require"></a>
@@ -56,7 +56,7 @@ ___
 
 **● require**: *`string`*
 
-*Defined in middleware.ts:34*
+*Defined in [middleware.ts:34](https://github.com/qiansc/Typescript-Nyc-Mocha-Gulp/blob/f011cd6/src/middleware.ts#L34)*
 
 ___
 

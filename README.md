@@ -6,6 +6,8 @@
 
 # Develop
 
+Project
+
 ```
 # init
 npm install
@@ -18,21 +20,29 @@ gulp watch
 
 ```
 
+Global (optional)
+
+```
+npm install gulp -g
+npm install typescript -g
+```
+
 # Cmd
 
 ```
-  # Test
+  # Test 本地TS测试
   npm test test/*.ts
 
-  # Cover
+  # Cover 覆盖率检查
   npm run cover
 
-  # TsLint (src/**/*.ts test/**/*.ts)
+  # TsLint (src/**/*.ts test/**/*.ts) 语法检查
+  npm run lint
 
-  # Doc (save to docs/)
+  # Doc (save to docs/) 生成html api 文档
   npm doc
 
-  # Readme (save to md/)
+  # Readme (save to md/) 生成MD 文档
   npm md
 
 ```

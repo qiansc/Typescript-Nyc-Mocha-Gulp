@@ -2,7 +2,7 @@
 Typescript-Nyc-Mocha-Gulp
 =========================
 
-[![Build Status](https://travis-ci.org/qiansc/Typescript-Nyc-Mocha-Gulp.svg?branch=master)](https://travis-ci.org/node-dmr/dmr-middleware) [![Coveralls](https://img.shields.io/coveralls/qiansc/Typescript-Nyc-Mocha-Gulp.svg)](https://coveralls.io/github/node-dmr/dmr-middleware) [![npm package](https://img.shields.io/npm/v/typescript-nyc-mocha-gulp.svg)](https://www.npmjs.org/package/dmr-middleware) [![npm downloads](http://img.shields.io/npm/dm/typescript-nyc-mocha-gulp.svg)](https://www.npmjs.org/package/dmr-middleware)
+[![Build Status](https://travis-ci.org/qiansc/Typescript-Nyc-Mocha-Gulp.svg?branch=master)](https://travis-ci.org/qiansc/Typescript-Nyc-Mocha-Gulp) [![Coveralls](https://img.shields.io/coveralls/qiansc/Typescript-Nyc-Mocha-Gulp.svg)](https://coveralls.io/github/qiansc/Typescript-Nyc-Mocha-Gulp) [![npm package](https://img.shields.io/npm/v/typescript-nyc-mocha-gulp.svg)](https://www.npmjs.org/package/typescript-nyc-mocha-gulp) [![npm downloads](http://img.shields.io/npm/dm/typescript-nyc-mocha-gulp.svg)](https://www.npmjs.org/package/typescript-nyc-mocha-gulp)
 
 Develop
 =======
@@ -40,11 +40,13 @@ Cmd
 Platform Support
 ================
 
-\[x\] npm publish & preversion
+*    preversion before npm publish
+    *   tslint
+    *   cover
 
-\[x\] travis
-
-\[x\] coveralls
+*   [Travis](https://github.com/qiansc/Typescript-Nyc-Mocha-Gulp/blob/master/.travis.yml) [![Build Status](https://travis-ci.org/qiansc/Typescript-Nyc-Mocha-Gulp.svg?branch=master)](https://travis-ci.org/qiansc/Typescript-Nyc-Mocha-Gulp)
+    
+*   Coveralls [![Coveralls](https://img.shields.io/coveralls/qiansc/Typescript-Nyc-Mocha-Gulp.svg)](https://coveralls.io/github/qiansc/Typescript-Nyc-Mocha-Gulp)
 
 ## Index
 
@@ -72,7 +74,7 @@ Platform Support
 
 **Ƭ GatherCallback**: *`function`*
 
-*Defined in middleware.ts:41*
+*Defined in [middleware.ts:41](https://github.com/qiansc/Typescript-Nyc-Mocha-Gulp/blob/f011cd6/src/middleware.ts#L41)*
 
 #### Type declaration
 ▸(data?: *[Result](#result)*): `void`
@@ -92,7 +94,7 @@ ___
 
 **Ƭ Result**: *[`string`, `string`]*
 
-*Defined in middleware.ts:37*
+*Defined in [middleware.ts:37](https://github.com/qiansc/Typescript-Nyc-Mocha-Gulp/blob/f011cd6/src/middleware.ts#L37)*
 
 ___
 

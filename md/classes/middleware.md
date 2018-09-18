@@ -38,7 +38,7 @@ Middleware abstract Class
 
 ⊕ **new Middleware**(options?: *[MiddlewareOptions](../interfaces/middlewareoptions.md)*): [Middleware](middleware.md)
 
-*Defined in middleware.ts:15*
+*Defined in [middleware.ts:15](https://github.com/qiansc/Typescript-Nyc-Mocha-Gulp/blob/f011cd6/src/middleware.ts#L15)*
 
 **Parameters:**
 
@@ -58,7 +58,7 @@ ___
 
 **● options**: *[MiddlewareOptions](../interfaces/middlewareoptions.md)*
 
-*Defined in middleware.ts:15*
+*Defined in [middleware.ts:15](https://github.com/qiansc/Typescript-Nyc-Mocha-Gulp/blob/f011cd6/src/middleware.ts#L15)*
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 ▸ **_handle**(result: *[Result](../#result)*, gather: *[GatherCallback](../#gathercallback)*): `void`
 
-*Defined in middleware.ts:22*
+*Defined in [middleware.ts:22](https://github.com/qiansc/Typescript-Nyc-Mocha-Gulp/blob/f011cd6/src/middleware.ts#L22)*
 
 **Parameters:**
 
@@ -88,7 +88,7 @@ ___
 
 ▸ **handle**(result: *[Result](../#result)*, gather: *[GatherCallback](../#gathercallback)*): `void`
 
-*Defined in middleware.ts:19*
+*Defined in [middleware.ts:19](https://github.com/qiansc/Typescript-Nyc-Mocha-Gulp/blob/f011cd6/src/middleware.ts#L19)*
 
 **Parameters:**
 
